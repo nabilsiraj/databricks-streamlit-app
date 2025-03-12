@@ -1175,8 +1175,10 @@ import json
 import time
 
 # Databricks API Config
-DATABRICKS_HOST = "https://dbc-123456789012.cloud.databricks.com" 
+DATABRICKS_HOST = "https://dbc-73a44bef-fe73.cloud.databricks.com" 
 DATABRICKS_TOKEN = "dapife58d433f963fa99d31e68cf9f30c75c"  
+
+
 
 # API URLs
 RUN_NOW_URL = f"{DATABRICKS_HOST}/api/2.1/jobs/run-now"
